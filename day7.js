@@ -22,4 +22,4 @@ console.log(url);
 console.log(url.replace('@gma', '+++'));
 console.log(url.includes("+++"));
 
-console.log(gameName.split('a'));
+console.log(gameName.split('a'));d
