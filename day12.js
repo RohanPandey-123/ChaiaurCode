@@ -52,10 +52,4 @@ Juser.greeting = function(){
     console.log("Hello JS User");
 }
 
-<<<<<<< HEAD
-console.log(Juser.greeting()); 
-=======
-console.log(Juser.greeting());
-
-// wanna change
->>>>>>> 6504e32e424aab079c8b0ed8c58624ad8a2c4f63
+console.log(Juser.greeting());  
