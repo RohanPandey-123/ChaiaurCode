@@ -52,4 +52,4 @@ Juser.greeting = function(){
     console.log("Hello JS User");
 }
 
-console.log(Juser.greeting());
+console.log(Juser.greeting()); 

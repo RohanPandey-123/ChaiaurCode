@@ -51,4 +51,4 @@ const user = [
 ]
 console.log(Object.keys(user[1]));
 console.log(Object.values(user[1]));
-console.log(Object.entries(user[1]));
+console.log(Object.entries(user[1]));  
